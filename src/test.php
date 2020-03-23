@@ -2,3 +2,11 @@
 
 die();
 
+
+class A {
+ function (){
+   
+ }
+  
+}
+
