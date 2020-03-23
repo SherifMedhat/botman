@@ -4,9 +4,9 @@ die();
 
 
 class A {
- function (){
+    function () {
    
- }
+    }
   
 }
 
