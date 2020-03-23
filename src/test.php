@@ -1,4 +1,5 @@
 <?php
 
-die();
+die('2');
 
+return;
