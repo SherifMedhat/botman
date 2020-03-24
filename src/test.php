@@ -2,9 +2,10 @@
 
 class testov   {
   
-  function testawi_teston (                                                                     $first){
+    function testawi_teston($first)
+    {
     
-  }
+    }
   
 }
 
